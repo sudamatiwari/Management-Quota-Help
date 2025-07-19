@@ -1,0 +1,1 @@
+For running the code locally, clone the repo and save the "next-swc.win32-x64-msvc.node" file from "https://drive.google.com/drive/folders/1xXhPzBGwWWkQelkJRXgcbNUoAUQfBb_H?usp=sharing" in the directory "mgmt-quota-phase2\node_modules\@next\swc-win32-x64-msvc".
